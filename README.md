@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/meet-jain-413015265/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19lcaqQIwAIYXh_LN5YNtBjHO6Ue-QUDQ/view](https://drive.google.com/file/d/19lcaqQIwAIYXh_LN5YNtBjHO6Ue-QUDQ/view)
-
 - ⚡ Fun fact **I am Good Looking**
 
 <h3 align="left">Connect with me:</h3>
