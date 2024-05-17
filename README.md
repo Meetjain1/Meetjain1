@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meet Jain</h1>
 <h3 align="center"> A relentless pursuer of growth and learning. Currently pursuing B.Tech @ IIIT Jabalpur, I hail from the vibrant city of Bhopal, Madhya Pradesh.   
-|💻"Passionate Web Developer" | Cyber security Analyst |
-|"Transforming 💡 into Seamless Digital Experiences" | Skilled Coder|National-Level Chess Player |Perfect Athlete|</h3>
+|"Transforming 💡 into Seamless Digital Experiences" ||💻"Passionate Web Developer" | Cyber security Analyst |
+|Skilled Coder|National-Level Chess Player |Perfect Athlete|</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetjain1&label=Profile%20views&color=0e75b6&style=flat" alt="meetjain1" /> </p>
 
