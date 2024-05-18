@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/meet-jain-413015265/**
 
+- 🏅 Badges https://www.holopin.io/@meetjain1#badges
+
 - ⚡ Fun fact **I am Good Looking**
 
 <hr>
