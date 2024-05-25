@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meet Jain</h1>
 <h3 align="center"> A relentless pursuer of growth and learning. Currently pursuing B.Tech @ IIIT Jabalpur, I hail from the vibrant city of Bhopal, Madhya Pradesh. <br>
 |"Transforming 💡 into Seamless Digital Experiences" |<hr>
-|💻Passionate Web Developer | Cyber security Analyst |
+|💻Passionate Web Developer | Cyber security Analyst
 | Skilled Coder | National-Level Chess Player | <br>
 | Perfect Athlete |</h3>
 
