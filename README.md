@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="meetjain1" /> I'm Meet Jain </h1> <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="meetjain1" />
+  <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="meetjain1" /> I'm Meet Jain </h1> <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="meetjain1" /> 
 <div>
 <h3 align="center"> A relentless pursuer of growth and learning. Currently pursuing B.Tech @ IIIT Jabalpur, I hail from the vibrant city of Bhopal, Madhya Pradesh. <br>
 |"Transforming 💡 into Seamless Digital Experiences" |<hr>
@@ -15,14 +15,14 @@
 
 - 🏅More [Badges](https://www.holopin.io/@meetjain1#badges)
 
-- ⚡ Fun fact : **In addition to my coding skills, I excel in various sports and even compete at the national level in chess!**
+- ⚡ Fun fact : **In addition to my coding skills, I excel in various sports and even compete at the National level in chess!**
 
 <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/meet-jain-413015265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meet-jain-413015265/" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/meet-jain-413015265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meet-jain-413015265/" height="35" width="45" /></a>
+<a href="https://discordapp.com/users/meetofficial" target="blank"><img align="center" src="https://github.com/Meetjain1/Meetjain1/assets/133582566/098a209a-a1d2-4350-9331-8f90203cc34d" alt="https://discordapp.com/users/meetofficial" height="45" width="45" /></a>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
