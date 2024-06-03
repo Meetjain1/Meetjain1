@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Meet Jain</h1>
+<div>
+  <h1 align="center">Hi 👋, I'm Meet Jain </h1> <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="meetjain1" />
+<div>
 <h3 align="center"> A relentless pursuer of growth and learning. Currently pursuing B.Tech @ IIIT Jabalpur, I hail from the vibrant city of Bhopal, Madhya Pradesh. <br>
 |"Transforming 💡 into Seamless Digital Experiences" |<hr>
 |💻Passionate Web Developer | Cyber security Analyst
