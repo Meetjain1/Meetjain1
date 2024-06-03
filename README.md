@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi 👋, I'm Meet Jain </h1> <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="meetjain1" />
+  <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="meetjain1" /> I'm Meet Jain </h1> <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="meetjain1" />
 <div>
 <h3 align="center"> A relentless pursuer of growth and learning. Currently pursuing B.Tech @ IIIT Jabalpur, I hail from the vibrant city of Bhopal, Madhya Pradesh. <br>
 |"Transforming 💡 into Seamless Digital Experiences" |<hr>
@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetjain1&label=Profile%20views&color=0e75b6&style=flat" alt="meetjain1" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Meetjain1](https://github.com/Meetjain1)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Meetjain1)
 
-- 📫 How to reach me **https://www.linkedin.com/in/meet-jain-413015265/**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/meet-jain-413015265/)
 
-- 🏅 Badges https://www.holopin.io/@meetjain1#badges
+- 🏅More [Badges](https://www.holopin.io/@meetjain1#badges)
 
-- ⚡ Fun fact **While I excel in coding, I also play all sports above average, with a special talent as a national level chess player!**
+- ⚡ Fun fact : **In addition to my coding skills, I excel in various sports and even compete at the national level in chess!**
 
 <hr>
 
