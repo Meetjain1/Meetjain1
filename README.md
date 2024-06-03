@@ -13,7 +13,7 @@
 
 - 🏅 Badges https://www.holopin.io/@meetjain1#badges
 
-- ⚡ Fun fact **I am Good Looking**
+- ⚡ Fun fact **While I excel in coding, I also play all sports above average, with a special talent as a national level chess player!**
 
 <hr>
 
