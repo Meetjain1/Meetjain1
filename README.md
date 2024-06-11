@@ -30,12 +30,12 @@
 
 <hr>
 <a href="https://github.com/Meetjain1">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetjain1&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetjain1&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" />
 </a>
 
 <a href="https://github.com/Meetjain1">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Meetjain1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Meet jain's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Meetjain1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&theme=highcontrast" alt="Meet jain's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Meetjain1"> <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=meetjain1&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="meetjain1" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Meetjain1&theme=highcontrast)](https://git.io/streak-stats)
 
