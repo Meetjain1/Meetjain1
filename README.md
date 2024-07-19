@@ -30,9 +30,8 @@
 
 <hr>
 
-<h3 align="left">My GSSoC'24 Badges </h3>
-
-![gssoc24Badges](https://github.com/user-attachments/assets/fac2b64c-0d68-428f-87bb-b037d4a46a63)
+<h3 align="left"> GSSoC'24 Badges </h3>
+<img width="100%" src="https://github.com/user-attachments/assets/fac2b64c-0d68-428f-87bb-b037d4a46a63" alt="meetjain1" />
 
 <hr>
 
