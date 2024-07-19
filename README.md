@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Meetjain1)
 
-- 📫 How to reach me meetofficialhere@gmail.com
+- 📫 Reach me @ meetofficialhere@gmail.com
 
 - 🏅More [Badges](https://www.holopin.io/@meetjain1#badges)
 
