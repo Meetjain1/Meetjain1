@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact : **In addition to my coding skills, I excel in various sports and even compete at the National level in chess!**
   
-<hr>
+<hr> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
