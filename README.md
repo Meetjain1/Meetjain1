@@ -7,7 +7,6 @@
 | Skilled Coder | National-Level Chess Player | <br>
 | Perfect Athlete |</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetjain1&label=Profile%20views&color=0e75b6&style=flat" alt="meetjain1" /> </p> 
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Meetjain1)
