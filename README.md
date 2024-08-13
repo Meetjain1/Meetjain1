@@ -14,7 +14,7 @@
 - 🏅 holopin [Badges](https://www.holopin.io/@meetjain1#badges)
 
 - ⚡ Fun fact : **In addition to my coding skills, I excel in various sports and even compete at the National level in chess!**
-  
+   
 <hr>
 
 <h3 align="left">Connect with me:</h3>
