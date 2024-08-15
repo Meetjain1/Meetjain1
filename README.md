@@ -33,7 +33,6 @@
 
 <hr>
 
-
 <h3 align="left"> Hacktoberfest'23 Badges</h3>
 <img width="100%" src="https://github.com/user-attachments/assets/ff02c27f-49f1-48c1-a847-79e7f65efff1" alt="Hacktoberfest'23 Badges" />
 
