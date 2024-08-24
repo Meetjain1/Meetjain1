@@ -100,18 +100,20 @@
 <div>
   <table>
     <tr>
+      <!-- Most Used Languages -->
       <td>
         <a href="https://github.com/Meetjain1">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetjain1&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetjain1&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
         </a>
       </td>
+      <!-- GitHub Stats and Streak Stats -->
       <td>
         <a href="https://github.com/Meetjain1">
-          <img src="https://github-readme-stats.vercel.app/api?username=Meetjain1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&theme=highcontrast" alt="Meet jain's GitHub Stats" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Meetjain1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&theme=highcontrast" alt="Meet jain's GitHub Stats" width="100%" height="135px" />
         </a>
         <br />
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=Meetjain1&theme=highcontrast" alt="Meet jain's GitHub Streak" width="100%" />
+          <img src="https://streak-stats.demolab.com/?user=Meetjain1&theme=highcontrast" alt="Meet jain's GitHub Streak" width="100%" height="135px" />
         </a>
       </td>
     </tr>
