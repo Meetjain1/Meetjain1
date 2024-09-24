@@ -121,7 +121,6 @@
   </table>
 </div>
 
-
   <a href="https://github.com/Meetjain1/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meetjain1&theme=high-contrast" alt="Meet jain's GitHub Activity Graph" />
   </a>
