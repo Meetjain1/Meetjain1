@@ -71,6 +71,12 @@
 ### Open Source Experiences
 
 <details>
+  <summary> WoB'24 </summary>
+  <br>
+  <img width="100%" src="https://github.com/user-attachments/assets/4b679b87-864a-4a97-8363-6427d875a761" alt="meetjain1" />
+</details>
+
+<details>
   <summary> GSSoC'24 </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/e85a7acf-e598-46a9-b1e0-3adc7b04d8c1" alt="meetjain1" />
