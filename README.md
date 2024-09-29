@@ -73,9 +73,10 @@
 <details>
   <summary> Hacktoberfest'24 </summary>
   <br>
-  <img width="100%" src="https://github.com/user-attachments/assets/4b679b87-864a-4a97-8363-6427d875a761" alt="meetjain1" />
+  <img width="100%" src="https://github.com/user-attachments/assets/5199e359-cbc2-4504-85e2-3e96f66b45f8" alt="meetjain1" />
 </details>
 
+<details>
   <summary> WoB'24 </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/4b679b87-864a-4a97-8363-6427d875a761" alt="meetjain1" />
