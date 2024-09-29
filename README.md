@@ -71,6 +71,11 @@
 ### Open Source Experiences
 
 <details>
+  <summary> Hacktoberfest'24 </summary>
+  <br>
+  <img width="100%" src="https://github.com/user-attachments/assets/4b679b87-864a-4a97-8363-6427d875a761" alt="meetjain1" />
+</details>
+
   <summary> WoB'24 </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/4b679b87-864a-4a97-8363-6427d875a761" alt="meetjain1" />
