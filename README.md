@@ -71,6 +71,12 @@
 ### Open Source Experiences
 
 <details>
+  <summary> DevFest AI 2024 </summary>
+  <br>
+  <img width="100%" src="https://github.com/user-attachments/assets/f9b50426-c8d0-4f25-bf1f-7fcbec49b0a5" alt="meetjain1" />
+</details>
+
+<details>
   <summary> Hacktoberfest'24 </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/5199e359-cbc2-4504-85e2-3e96f66b45f8" alt="meetjain1" />
