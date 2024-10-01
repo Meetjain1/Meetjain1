@@ -77,6 +77,12 @@
 </details>
 
 <details>
+  <summary> GSSoC 2024 Extd </summary>
+  <br>
+  <img width="100%" src="https://github.com/user-attachments/assets/c2a42732-dd83-440a-8456-d1f847a7ee6f" alt="meetjain1" />
+</details>
+
+<details>
   <summary> Hacktoberfest'24 </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/5199e359-cbc2-4504-85e2-3e96f66b45f8" alt="meetjain1" />
