@@ -71,49 +71,49 @@
 ### Open Source Experiences
 
 <details>
-  <summary> DevFest AI 2024 </summary>
+  <summary> DevFest AI 2024 [Contributor] </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/f9b50426-c8d0-4f25-bf1f-7fcbec49b0a5" alt="meetjain1" />
 </details>
 
 <details>
-  <summary> GSSoC 2024 Extd </summary>
+  <summary> GSSoC 2024 Extd [Mentor] </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/c2a42732-dd83-440a-8456-d1f847a7ee6f" alt="meetjain1" />
 </details>
 
 <details>
-  <summary> Hacktoberfest'24 </summary>
+  <summary> Hacktoberfest'24 [Contributor] </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/5199e359-cbc2-4504-85e2-3e96f66b45f8" alt="meetjain1" />
 </details>
 
 <details>
-  <summary> WoB'24 </summary>
+  <summary> WoB'24 [Mentor] </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/4b679b87-864a-4a97-8363-6427d875a761" alt="meetjain1" />
 </details>
 
 <details>
-  <summary> GSSoC'24 </summary>
+  <summary> GSSoC'24 [Contributor] </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/e85a7acf-e598-46a9-b1e0-3adc7b04d8c1" alt="meetjain1" />
 </details>
 
 <details>
-  <summary> VSoC'24 </summary>
+  <summary> VSoC'24 [Contributor] </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/44b32fc4-6694-447f-babb-fa5a06a35e4a" alt="meetjain1" />
 </details>
 
 <details>
-  <summary> TSoC'24 </summary>
+  <summary> TSoC'24 [Contributor] </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/a0932f66-7926-4c5d-86c5-814ad1d85156" alt="meetjain1" />
 </details>
 
 <details>
-  <summary>  Hacktoberfest'23 </summary>
+  <summary>  Hacktoberfest'23 [Contributor] </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/ff02c27f-49f1-48c1-a847-79e7f65efff1" alt="Hacktoberfest'23 Badges" />
 </details>
