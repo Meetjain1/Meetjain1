@@ -71,13 +71,13 @@
 ### Open Source Experiences
 
 <details>
-  <summary> DevFest AI 2024 [Contributor] </summary>
+  <summary> DevFest AI'24 [Contributor] </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/f9b50426-c8d0-4f25-bf1f-7fcbec49b0a5" alt="meetjain1" />
 </details>
 
 <details>
-  <summary> GSSoC 2024 Extd [Mentor] </summary>
+  <summary> GSSoC'24-Extd [Mentor] </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/c2a42732-dd83-440a-8456-d1f847a7ee6f" alt="meetjain1" />
 </details>
