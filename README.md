@@ -153,6 +153,6 @@
 
 ## Support Me
 
-<h3>If you like my work, you can support me by buying me a coffee! </h3>
+<h3>If you like my work, you can support me by buying me a coffee Thanks! </h3>
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-orange?style=flat-square&logo=buymeacoffee)](https://buymeacoffee.com/meetjain)
