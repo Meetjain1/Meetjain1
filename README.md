@@ -68,7 +68,7 @@
  -->
 <hr>
 
-### Open Source Experiences
+### Open Source Experiences 
 
 <details>
   <summary> DevFest AI'24 [Contributor] </summary>
