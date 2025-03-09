@@ -77,6 +77,12 @@
 </details>
 
 <details>
+  <summary> Social Winter of Code'24 [Open Source Mentor] </summary>
+  <br>
+  <img width="100%" src="https://github.com/user-attachments/assets/76db63e9-a71b-415c-9979-4fd3585a95ee" alt="meetjain1" />
+</details>
+
+<details>
   <summary> DevFest AI'24 [Open Source Contributor] </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/f9b50426-c8d0-4f25-bf1f-7fcbec49b0a5" alt="meetjain1" />
