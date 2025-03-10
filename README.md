@@ -132,6 +132,16 @@
 
 <hr>
 
+<h3>My GitRoll Stats</h3>
+
+<details>
+  <summary> Click here </summary>
+  <br>
+  <a href="https://gitroll.io/profile/uMZcGY1XUZ7YaGdlFg8Twr8a01lz2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uMZcGY1XUZ7YaGdlFg8Twr8a01lz2?theme=midnight" alt="GitRoll Profile Badge"/></a>
+</details>
+
+<hr>
+
 <h3>My GitHub Stats</h3>
 
 <div>
