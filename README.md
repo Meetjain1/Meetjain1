@@ -1,18 +1,19 @@
 <div>
   <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="meetjain1" /> I'm Meet Jain </h1> <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="meetjain1" /> 
 <div>
-<h3 align="center"> B.Tech student at IIIT Jabalpur | Developer who loves turning ideas into code and learning something new every day. <br>
 <br>
-|"Transforming 💡 into Seamless Digital Experiences" |<hr>
+<h3>Passionate about Open Source • Building, Breaking & Fixing one PR at a time
 </h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetjain1&label=Profile%20views&color=0e75b6&style=flat" alt="meetjain1" /> </p> 
 
-- All of my projects are available at [github](https://github.com/Meetjain1)
+- Open to Work : Currently looking for exciting opportunities. Feel free to reach out via LinkedIn, Twitter or Email.
 
-- Reach me @ meetofficialhere@gmail.com
+- Projects : All of my projects are available [Here](https://techfolio-one.vercel.app/project)
 
-- holopin [Badges](https://www.holopin.io/@meetjain1#badges)
+- Reach me : @ meetofficialhere@gmail.com
+
+- holopin : [Badges](https://www.holopin.io/@meetjain1#badges)
 
 - Fun fact : **In addition to my coding skills, I excel in various sports and even compete at the National level in chess!**
    
@@ -161,51 +162,42 @@
 </details>
 
 <hr>
+<h3 align="center">My GitHub & GitRoll Stats</h3>
 
-<h3>My GitRoll Stats</h3>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetjain1&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast&layout=compact" alt="Top Languages" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meetjain1&theme=highcontrast&utcOffset=8" alt="Productive Time" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Meetjain1&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&theme=highcontrast" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meetjain1&theme=highcontrast" alt="Profile Details" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<details>
-  <summary> Click here </summary>
-  <br>
-  <a href="https://gitroll.io/profile/uMZcGY1XUZ7YaGdlFg8Twr8a01lz2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uMZcGY1XUZ7YaGdlFg8Twr8a01lz2?theme=midnight" alt="GitRoll Profile Badge"/></a>
-</details>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Meetjain1&theme=highcontrast" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://gitroll.io/profile/uMZcGY1XUZ7YaGdlFg8Twr8a01lz2" target="_blank">
+        <img src="https://gitroll.io/api/badges/profiles/v1/uMZcGY1XUZ7YaGdlFg8Twr8a01lz2?theme=dark" alt="GitRoll Profile Badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<hr>
-
-<h3>My GitHub Stats</h3>
-
-<div>
-  <table width="100%">
-    <tr>
-      <!-- Most Used Languages -->
-      <td width="50%" valign="top">
-        <a href="https://github.com/Meetjain1">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetjain1&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
-        </a>
-      </td>
-      <!-- GitHub Stats and Streak Stats -->
-      <td width="50%" valign="top">
-        <a href="https://github.com/Meetjain1">
-          <img src="https://github-readme-stats.vercel.app/api?username=Meetjain1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&theme=highcontrast" alt="Meet jain's GitHub Stats" width="100%" height="135px" />
-        </a>
-        <br />
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=Meetjain1&theme=highcontrast" alt="Meet jain's GitHub Streak" width="100%" height="135px" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-  <a href="https://github.com/Meetjain1/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meetjain1&theme=high-contrast" alt="Meet jain's GitHub Activity Graph" />
-  </a>
-
-</div>
-
-## Support Me
-
-<h3>If you like my work, you can support me by buying me a coffee Thanks! </h3>
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-orange?style=flat-square&logo=buymeacoffee)](https://buymeacoffee.com/meetjain)
-
+<a href="https://github.com/Meetjain1/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meetjain1&theme=high-contrast" alt="GitHub Activity Graph" width="100%"/>
+</a>
