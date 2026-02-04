@@ -198,21 +198,38 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetjain1&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast&layout=compact" alt="Top Languages" width="100%" />
+      <img
+        src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=Meetjain1&hide=html,css&layout=compact&theme=highcontrast&cache_seconds=1800"
+        alt="Top Languages"
+        width="100%"
+      />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meetjain1&theme=highcontrast&utcOffset=8" alt="Productive Time" width="100%" />
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meetjain1&theme=highcontrast"
+        alt="Productive Time"
+        width="100%"
+      />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Meetjain1&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&theme=highcontrast" alt="GitHub Stats" width="100%" />
+      <img
+        src="https://github-readme-stats-plum-one-24.vercel.app/api?username=Meetjain1&show_icons=true&count_private=true&theme=highcontrast&cache_seconds=1800"
+        alt="GitHub Stats"
+        width="100%"
+      />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meetjain1&theme=highcontrast" alt="Profile Details" width="100%" />
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meetjain1&theme=highcontrast"
+        alt="Profile Details"
+        width="100%"
+      />
     </td>
   </tr>
 </table>
+
 
 <table align="center" width="100%">
   <tr>
