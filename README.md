@@ -126,7 +126,7 @@
 ### Open Source Experiences 
 
 <details>
-  <summary> Code for Gov Tech DMP'25 [Open Source Contributor] </summary>
+  <summary> Code for Good Tech DMP'25 [Open Source Contributor] </summary>
   <br>
   <img width="100%" src="https://github.com/user-attachments/assets/9dcb8159-9f0a-4603-994c-64f9d694dcd5" />
 " alt="meetjain1" />
