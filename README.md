@@ -1,6 +1,7 @@
 <div>
-  <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="meetjain1" /> I'm Meet Jain </h1> <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="meetjain1" /> 
+  <h1 align="center">Hello, I'm Meet Jain </h1> <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="meetjain1" /> 
 <div>
+  <!-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="meetjain1" /> -->
 <br>
 <h3>Passionate about Open Source • Building, Breaking & Fixing one PR at a time
 </h3>
